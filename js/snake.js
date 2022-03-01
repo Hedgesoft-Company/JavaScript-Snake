@@ -1,14 +1,3 @@
-/*
-JavaScript Snake
-First version by Patrick Gillespie - I've since merged in a good number of github pull requests
-http://patorjk.com/games/snake 
-*/
-
-/**
-* @module Snake
-* @class SNAKE
-*/
-
 var SNAKE = SNAKE || {};
 window.SNAKE = SNAKE; // this will allow us to access the game in other JS files when the app is loaded up in a codesandbox.com sandbox, that's the only reason it's here
 
